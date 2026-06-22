@@ -1,0 +1,8 @@
+04-Jun-2026 12:54:05 CEST  Initiating request to open file root://eoscms.cern.ch//eos/cms/store/mc/Run3Winter26Reco/Pi_Par-E-0p2to10_PGun/GEN-SIM-RECO/NoPU_150X_mcRun3_2026_realistic_v1-v2/2520000/ecfa1693-924d-497f-a8b8-02e1450b2a9e.root
+%MSG-w XrdAdaptorInternal:  file_open 04-Jun-2026 12:54:06 CEST pre-events
+Failed to open file at URL root://eoscms.cern.ch:1094//eos/cms/store/mc/Run3Winter26Reco/Pi_Par-E-0p2to10_PGun/GEN-SIM-RECO/NoPU_150X_mcRun3_2026_realistic_v1-v2/2520000/ecfa1693-924d-497f-a8b8-02e1450b2a9e.root?xrdcl.requuid=c0a4a891-cb6d-430d-a587-878bffe6c070.
+%MSG
+%MSG-w XrdAdaptorInternal:  file_open 04-Jun-2026 12:54:06 CEST pre-events
+Failed to open file at URL root://eoscms.cern.ch:1094//eos/cms/store/mc/Run3Winter26Reco/Pi_Par-E-0p2to10_PGun/GEN-SIM-RECO/NoPU_150X_mcRun3_2026_realistic_v1-v2/2520000/ecfa1693-924d-497f-a8b8-02e1450b2a9e.root?tried=&xrdcl.requuid=f625e063-f4da-4ca6-93cf-82be5dae0835.
+%MSG
+04-Jun-2026 12:54:06 CEST  Initiating request to open file root://xrootd-cms.infn.it//store/mc/Run3Winter26Reco/Pi_Par-E-0p2to10_PGun/GEN-SIM-RECO/NoPU_150X_mcRun3_2026_realistic_v1-v2/2520000/ecfa1693-924d-497f-a8b8-02e1450b2a9e.root

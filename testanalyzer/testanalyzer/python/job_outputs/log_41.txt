@@ -1,0 +1,17 @@
+04-Jun-2026 12:52:28 CEST  Initiating request to open file root://eoscms.cern.ch//eos/cms/store/mc/Run3Winter26Reco/Pi_Par-E-0p2to10_PGun/GEN-SIM-RECO/NoPU_150X_mcRun3_2026_realistic_v1-v2/2520000/03aaa676-2669-4d5b-a9a9-3afb133cceb7.root
+%MSG-w XrdAdaptorInternal:  file_open 04-Jun-2026 12:52:29 CEST pre-events
+Failed to open file at URL root://eoscms.cern.ch:1094//eos/cms/store/mc/Run3Winter26Reco/Pi_Par-E-0p2to10_PGun/GEN-SIM-RECO/NoPU_150X_mcRun3_2026_realistic_v1-v2/2520000/03aaa676-2669-4d5b-a9a9-3afb133cceb7.root?xrdcl.requuid=412600f2-5698-47d5-9b94-c84bf381acba.
+%MSG
+%MSG-w XrdAdaptorInternal:  file_open 04-Jun-2026 12:52:29 CEST pre-events
+Failed to open file at URL root://eoscms.cern.ch:1094//eos/cms/store/mc/Run3Winter26Reco/Pi_Par-E-0p2to10_PGun/GEN-SIM-RECO/NoPU_150X_mcRun3_2026_realistic_v1-v2/2520000/03aaa676-2669-4d5b-a9a9-3afb133cceb7.root?tried=&xrdcl.requuid=b68f4502-3c75-46fa-898a-e6d535107826.
+%MSG
+04-Jun-2026 12:52:29 CEST  Initiating request to open file root://xrootd-cms.infn.it//store/mc/Run3Winter26Reco/Pi_Par-E-0p2to10_PGun/GEN-SIM-RECO/NoPU_150X_mcRun3_2026_realistic_v1-v2/2520000/03aaa676-2669-4d5b-a9a9-3afb133cceb7.root
+[2026-06-04 12:53:15.977442 +0200][Error  ][AsyncSock         ] [xrootd-cms-02.cr.cnaf.infn.it:1094.0] Socket error while handshaking: [ERROR] Socket timeout
+[2026-06-04 12:53:15.977573 +0200][Error  ][PostMaster        ] [xrootd-cms-02.cr.cnaf.infn.it:1094] elapsed = 45, pConnectionWindow = 31 seconds.
+[2026-06-04 12:54:01.077178 +0200][Error  ][AsyncSock         ] [dm-s11-14-29.cr.cnaf.infn.it:1094.0] Socket error while handshaking: [ERROR] Socket timeout
+[2026-06-04 12:54:01.077252 +0200][Error  ][PostMaster        ] [dm-s11-14-29.cr.cnaf.infn.it:1094] elapsed = 45, pConnectionWindow = 31 seconds.
+%MSG-f XrdAdaptor:  file_open 04-Jun-2026 12:54:01 CEST pre-events
+Opened a file at URL root://dm-s11-14-29.cr.cnaf.infn.it:1094//store/mc/Run3Winter26Reco/Pi_Par-E-0p2to10_PGun/GEN-SIM-RECO/NoPU_150X_mcRun3_2026_realistic_v1-v2/2520000/03aaa676-2669-4d5b-a9a9-3afb133cceb7.root?xrdcl.requuid=d1a5bc26-de93-451d-8ffa-bcf99b56e644
+%MSG
+04-Jun-2026 12:54:05 CEST  Successfully opened file root://xrootd-cms.infn.it//store/mc/Run3Winter26Reco/Pi_Par-E-0p2to10_PGun/GEN-SIM-RECO/NoPU_150X_mcRun3_2026_realistic_v1-v2/2520000/03aaa676-2669-4d5b-a9a9-3afb133cceb7.root
+Begin processing the 1st record. Run 1, Event 4464013, LumiSection 4465 on stream 0 at 04-Jun-2026 12:54:09.329 CEST

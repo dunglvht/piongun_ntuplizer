@@ -1,0 +1,15 @@
+<use name="FWCore/Framework"/>
+<use name="FWCore/ParameterSet"/>
+<use name="FWCore/ServiceRegistry"/>
+<use name="CommonTools/UtilAlgos"/>
+<use name="DataFormats/TrackReco"/>
+<use name="DataFormats/HepMCCandidate"/>
+<use name="DataFormats/ParticleFlowReco"/>
+<use name="DataFormats/ParticleFlowCandidate"/>
+<use name="SimDataFormats/TrackingAnalysis"/>
+<use name="SimDataFormats/Associations"/>
+<use name="CommonTools/BaseParticlePropagator"/>
+<use name="root"/>
+<use name="rootcore"/>
+<use name="hepmc"/>
+<flags EDM_PLUGIN="1"/>

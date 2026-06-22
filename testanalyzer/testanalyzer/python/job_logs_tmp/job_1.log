@@ -1,0 +1,153 @@
+================================================================================
+JOB ID: 1
+FILES: /store/mc/Run3Winter26Reco/Pi_Par-E-0p2to200_PGun/GEN-SIM-RECO/NoPU_150X_mcRun3_2026_realistic_v1-v2/2520001/90fe7f35-84b0-4f9e-906e-61db399f3b55.root,/store/mc/Run3Winter26Reco/Pi_Par-E-0p2to200_PGun/GEN-SIM-RECO/NoPU_150X_mcRun3_2026_realistic_v1-v2/2520000/74e471bf-ffb7-45c3-b59c-defe5a7e78d6.root
+================================================================================
+04-Jun-2026 14:18:18 CEST  Initiating request to open file root://eoscms.cern.ch//eos/cms/store/mc/Run3Winter26Reco/Pi_Par-E-0p2to200_PGun/GEN-SIM-RECO/NoPU_150X_mcRun3_2026_realistic_v1-v2/2520001/90fe7f35-84b0-4f9e-906e-61db399f3b55.root
+%MSG-w XrdAdaptorInternal:  file_open 04-Jun-2026 14:18:19 CEST pre-events
+Failed to open file at URL root://eoscms.cern.ch:1094//eos/cms/store/mc/Run3Winter26Reco/Pi_Par-E-0p2to200_PGun/GEN-SIM-RECO/NoPU_150X_mcRun3_2026_realistic_v1-v2/2520001/90fe7f35-84b0-4f9e-906e-61db399f3b55.root?xrdcl.requuid=b04fb3ee-709a-41d9-8cd8-0624d49527e0.
+%MSG
+%MSG-w XrdAdaptorInternal:  file_open 04-Jun-2026 14:18:19 CEST pre-events
+Failed to open file at URL root://eoscms.cern.ch:1094//eos/cms/store/mc/Run3Winter26Reco/Pi_Par-E-0p2to200_PGun/GEN-SIM-RECO/NoPU_150X_mcRun3_2026_realistic_v1-v2/2520001/90fe7f35-84b0-4f9e-906e-61db399f3b55.root?tried=&xrdcl.requuid=27915fae-3c3b-4ce3-aa86-6fc2f94827dc.
+%MSG
+04-Jun-2026 14:18:19 CEST  Initiating request to open file root://xrootd-cms.infn.it//store/mc/Run3Winter26Reco/Pi_Par-E-0p2to200_PGun/GEN-SIM-RECO/NoPU_150X_mcRun3_2026_realistic_v1-v2/2520001/90fe7f35-84b0-4f9e-906e-61db399f3b55.root
+[2026-06-04 14:19:04.807427 +0200][Error  ][AsyncSock         ] [xrootd-cms.infn.it:1094.0] Socket error while handshaking: [ERROR] Socket timeout
+[2026-06-04 14:19:04.807583 +0200][Error  ][PostMaster        ] [xrootd-cms.infn.it:1094] elapsed = 45, pConnectionWindow = 31 seconds.
+%MSG-f XrdAdaptor:  file_open 04-Jun-2026 14:19:13 CEST pre-events
+Opened a file at URL root://cmsstor414.fnal.gov:27496//store/mc/Run3Winter26Reco/Pi_Par-E-0p2to200_PGun/GEN-SIM-RECO/NoPU_150X_mcRun3_2026_realistic_v1-v2/2520001/90fe7f35-84b0-4f9e-906e-61db399f3b55.root?org.dcache.uuid=54dafc93-fa08-446e-b71c-6b492a651026&org.dcache.xrootd.client=vle.3817174@lxplus9100.cern.ch&tried=+1213llrxrd-redir.in2p3.fr&xrd.logintoken=org.dcache.door=2620:6a:0:8420:0:0:0:101:1095&xrdcl.requuid=57c2c906-bb90-4cc5-945a-08278da5e9aa
+%MSG
+In file included from DataFormatsTrackReco_xr dictionary payload:68:
+In file included from /cvmfs/cms.cern.ch/el9_amd64_gcc12/cms/cmssw/CMSSW_15_0_19/src/DataFormats/Common/interface/Wrapper.h:186:
+In file included from /cvmfs/cms.cern.ch/el9_amd64_gcc12/cms/cmssw/CMSSW_15_0_19/src/DataFormats/Common/interface/WrapperView.icc:13:
+In file included from /cvmfs/cms.cern.ch/el9_amd64_gcc12/cms/cmssw/CMSSW_15_0_19/src/FWCore/Utilities/interface/EDMException.h:11:
+In file included from /cvmfs/cms.cern.ch/el9_amd64_gcc12/cms/cmssw/CMSSW_15_0_19/src/FWCore/Utilities/interface/Exception.h:44:
+/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/fmt/10.2.1-e35fd1db5eb3abc8ac0452e8ee427196/include/fmt/format.h:38:10: fatal error: cannot open file '/afs/cern.ch/work/v/vle/CMSSW_15_0_19/src/cstring': Input/output error
+#include <cstring>           // std::memcpy
+         ^
+%MSG-w RootInputFileSequence:  file_open 04-Jun-2026 14:19:16 CEST pre-events
+Input file root://eoscms.cern.ch//eos/cms/store/mc/Run3Winter26Reco/Pi_Par-E-0p2to200_PGun/GEN-SIM-RECO/NoPU_150X_mcRun3_2026_realistic_v1-v2/2520001/90fe7f35-84b0-4f9e-906e-61db399f3b55.root could not be opened, and fallback was attempted.
+Additional information:
+  [a] Disabled source: eoscms.cern.ch:1094
+  [b] Problematic data server: eoscms.cern.ch:1094
+  [c] Last URL tried: root://eoscms.cern.ch:1094//eos/cms/store/mc/Run3Winter26Reco/Pi_Par-E-0p2to200_PGun/GEN-SIM-RECO/NoPU_150X_mcRun3_2026_realistic_v1-v2/2520001/90fe7f35-84b0-4f9e-906e-61db399f3b55.root?tried=&xrdcl.requuid=27915fae-3c3b-4ce3-aa86-6fc2f94827dc
+  [d] XrdCl::File::Open(name='root://eoscms.cern.ch//eos/cms/store/mc/Run3Winter26Reco/Pi_Par-E-0p2to200_PGun/GEN-SIM-RECO/NoPU_150X_mcRun3_2026_realistic_v1-v2/2520001/90fe7f35-84b0-4f9e-906e-61db399f3b55.root?tried=', flags=0x10, permissions=0660) => error '[ERROR] Server responded with an error: [3011] Unable to open file /eos/cms/store/mc/Run3Winter26Reco/Pi_Par-E-0p2to200_PGun/GEN-SIM-RECO/NoPU_150X_mcRun3_2026_realistic_v1-v2/2520001/90fe7f35-84b0-4f9e-906e-61db399f3b55.root; No such file or directory
+' (errno=3011, code=400). No additional data servers were found.
+
+%MSG
+----- Begin Fatal Exception 04-Jun-2026 14:19:16 CEST-----------------------
+An exception of category 'FallbackFileOpenError' occurred while
+   [0] Constructing the EventProcessor
+   [1] Constructing input source of type PoolSource
+   [2] Calling RootInputFileSequence::initTheFile()
+   Additional Info:
+      [a] Calling RootInputFileSequence::initTheFile(): fail to open the file with name root://eoscms.cern.ch//eos/cms/store/mc/Run3Winter26Reco/Pi_Par-E-0p2to200_PGun/GEN-SIM-RECO/NoPU_150X_mcRun3_2026_realistic_v1-v2/2520001/90fe7f35-84b0-4f9e-906e-61db399f3b55.root
+      [b] Input file root://xrootd-cms.infn.it//store/mc/Run3Winter26Reco/Pi_Par-E-0p2to200_PGun/GEN-SIM-RECO/NoPU_150X_mcRun3_2026_realistic_v1-v2/2520001/90fe7f35-84b0-4f9e-906e-61db399f3b55.root could not be opened.
+      [c] Fatal Root Error: @SUB=TInterpreter::AutoParse
+Error parsing payload code for class edm::refhelper::FindUsingAdvance with content:
+
+#line 1 "DataFormatsTrackReco_xr dictionary payload"
+
+#ifndef ALPAKA_DEFAULT_HOST_MEMORY_ALIGNMENT
+  #define ALPAKA_DEFAULT_HOST_MEMORY_ALIGNMENT 128
+#endif
+#ifndef ALPAKA_DISABLE_VENDOR_RNG
+  #define ALPAKA_DISABLE_VENDOR_RNG 1
+#endif
+#ifndef CMS_DICT_IMPL
+  #define CMS_DICT_IMPL 1
+#endif
+#ifndef _REENTRANT
+  #define _REENTRANT 1
+#endif
+#ifndef GNUSOURCE
+  #define GNUSOURCE 1
+#endif
+#ifndef __STRICT_ANSI__
+  #define __STRICT_ANSI__ 1
+#endif
+#ifndef CMS_MICRO_ARCH
+  #define CMS_MICRO_ARCH "x86-64-v3"
+#endif
+#ifndef GNU_GCC
+  #define GNU_GCC 1
+#endif
+#ifndef _GNU_SOURCE
+  #define _GNU_SOURCE 1
+#endif
+#ifndef TBB_USE_GLIBCXX_VERSION
+  #define TBB_USE_GLIBCXX_VERSION 120301
+#endif
+#ifndef TBB_SUPPRESS_DEPRECATED_MESSAGES
+  #define TBB_SUPPRESS_DEPRECATED_MESSAGES 1
+#endif
+#ifndef TBB_PREVIEW_RESUMABLE_TASKS
+  #define TBB_PREVIEW_RESUMABLE_TASKS 1
+#endif
+#ifndef TBB_PREVIEW_TASK_GROUP_EXTENSIONS
+  #define TBB_PREVIEW_TASK_GROUP_EXTENSIONS 1
+#endif
+#ifndef BOOST_SPIRIT_THREADSAFE
+  #define BOOST_SPIRIT_THREADSAFE 1
+#endif
+#ifndef PHOENIX_THREADSAFE
+  #define PHOENIX_THREADSAFE 1
+#endif
+#ifndef BOOST_MATH_DISABLE_STD_FPCLASSIFY
+  #define BOOST_MATH_DISABLE_STD_FPCLASSIFY 1
+#endif
+#ifndef BOOST_UUID_RANDOM_PROVIDER_FORCE_POSIX
+  #define BOOST_UUID_RANDOM_PROVIDER_FORCE_POSIX 1
+#endif
+#ifndef CMSSW_GIT_HASH
+  #define CMSSW_GIT_HASH "CMSSW_15_0_19"
+#endif
+#ifndef PROJECT_NAME
+  #define PROJECT_NAME "CMSSW"
+#endif
+#ifndef PROJECT_VERSION
+  #define PROJECT_VERSION "CMSSW_15_0_19"
+#endif
+#ifndef CMSSW_REFLEX_DICT
+  #define CMSSW_REFLEX_DICT 1
+#endif
+
+#define _BACKWARD_BACKWARD_WARNING_H
+// Inline headers
+#include "DataFormats/Common/interface/Wrapper.h"
+#include "Rtypes.h"
+#include "Math/Cartesian3D.h"
+#include "Math/Polar3D.h"
+#include "Math/CylindricalEta3D.h"
+#include "DataFormats/TrackReco/interface/Track.h"
+#include "DataFormats/TrackReco/interface/TrackFwd.h"
+#include "DataFormats/TrackReco/interface/TrackExtra.h"
+#include "DataFormats/TrackReco/interface/TrackExtraFwd.h"
+#include "DataFormats/TrackReco/interface/TrackResiduals.h"
+#include "DataFormats/Common/interface/AssociationMap.h"
+#include "DataFormats/Common/interface/AssociationVector.h"
+#include "DataFormats/Common/interface/Ref.h"
+#include "DataFormats/Common/interface/RefHolder.h"
+#include "DataFormats/Common/interface/RefProd.h"
+#include "DataFormats/Common/interface/RefVector.h"
+#include "DataFormats/Common/interface/OneToValue.h"
+#include "DataFormats/Common/interface/Ptr.h"
+#include "DataFormats/Common/interface/ValueMap.h"
+#include "DataFormats/TrackReco/interface/TrackToTrackMap.h"
+//#include "DataFormats/TrackReco/interface/DeDxHitFwd.h"
+#include "DataFormats/TrackReco/interface/DeDxHit.h"
+#include "DataFormats/TrackReco/interface/TrackDeDxHits.h"
+#include "DataFormats/TrackReco/interface/DeDxData.h"
+#include "DataFormats/Common/interface/Handle.h"
+#include "DataFormats/Common/interface/OneToManyWithQuality.h"
+#include "DataFormats/Common/interface/OneToManyWithQualityGeneric.h"
+#include "DataFormats/Common/interface/View.h"
+#include "DataFormats/Candidate/interface/Candidate.h"
+#include "DataFormats/TrackCandidate/interface/TrackCandidate.h"
+#include "DataFormats/TrackReco/interface/DeDxHitInfo.h"
+#include "DataFormats/TrackReco/interface/SeedStopInfo.h"
+
+#include <vector>
+
+#undef  _BACKWARD_BACKWARD_WARNING_H
+
+
+----- End Fatal Exception -------------------------------------------------

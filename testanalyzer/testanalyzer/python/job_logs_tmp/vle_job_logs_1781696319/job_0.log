@@ -1,0 +1,5 @@
+JOB ID: 0
+FILES: /store/mc/Run3Winter26Reco/Pi_Par-E-0p2to10_PGun/GEN-SIM-RECO/NoPU_150X_mcRun3_2026_realistic_v1-v2/2520000/4f7b41e5-85fd-47b9-87ea-c445f7b0a464.root,/store/mc/Run3Winter26Reco/Pi_Par-E-0p2to10_PGun/GEN-SIM-RECO/NoPU_150X_mcRun3_2026_realistic_v1-v2/2520000/09b12dc2-85c8-45fb-bafb-fda8833146b4.root
+PROXY: /afs/cern.ch/user/v/vle/x509up_u161891
+================================================================================
+FATAL:   container creation failed: mount hook function failure: mount /etc/tnsnames.ora->/etc/tnsnames.ora error: while mounting /etc/tnsnames.ora: destination /etc/tnsnames.ora doesn't exist in container

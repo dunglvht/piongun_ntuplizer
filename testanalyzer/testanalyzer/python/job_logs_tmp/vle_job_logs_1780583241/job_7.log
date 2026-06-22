@@ -1,0 +1,32 @@
+JOB ID: 7
+FILES: /store/mc/Run3Winter26Reco/Pi_Par-E-500to5000_PGun/GEN-SIM-RECO/NoPU_150X_mcRun3_2026_realistic_v1-v2/2520001/7600f6f1-3c68-4600-ba91-d661c7b6d2b4.root
+PROXY: /afs/cern.ch/user/v/vle/x509up_u161891
+================================================================================
+04-Jun-2026 16:27:30 CEST  Initiating request to open file root://eoscms.cern.ch//eos/cms/store/mc/Run3Winter26Reco/Pi_Par-E-500to5000_PGun/GEN-SIM-RECO/NoPU_150X_mcRun3_2026_realistic_v1-v2/2520001/7600f6f1-3c68-4600-ba91-d661c7b6d2b4.root
+%MSG-w XrdAdaptorInternal:  file_open 04-Jun-2026 16:27:31 CEST pre-events
+Failed to open file at URL root://eoscms.cern.ch:1094//eos/cms/store/mc/Run3Winter26Reco/Pi_Par-E-500to5000_PGun/GEN-SIM-RECO/NoPU_150X_mcRun3_2026_realistic_v1-v2/2520001/7600f6f1-3c68-4600-ba91-d661c7b6d2b4.root?xrdcl.requuid=aaf6e117-2b9c-47e8-8990-60ba2aa5e14b.
+%MSG
+%MSG-w XrdAdaptorInternal:  file_open 04-Jun-2026 16:27:31 CEST pre-events
+Failed to open file at URL root://eoscms.cern.ch:1094//eos/cms/store/mc/Run3Winter26Reco/Pi_Par-E-500to5000_PGun/GEN-SIM-RECO/NoPU_150X_mcRun3_2026_realistic_v1-v2/2520001/7600f6f1-3c68-4600-ba91-d661c7b6d2b4.root?tried=&xrdcl.requuid=196a243a-cc13-408e-9131-62ef7c6a0af1.
+%MSG
+04-Jun-2026 16:27:31 CEST  Initiating request to open file root://xrootd-cms.infn.it//store/mc/Run3Winter26Reco/Pi_Par-E-500to5000_PGun/GEN-SIM-RECO/NoPU_150X_mcRun3_2026_realistic_v1-v2/2520001/7600f6f1-3c68-4600-ba91-d661c7b6d2b4.root
+%MSG-f XrdAdaptor:  file_open 04-Jun-2026 16:27:33 CEST pre-events
+Opened a file at URL root://ceph-svc20.gridpp.rl.ac.uk:1094//store/mc/Run3Winter26Reco/Pi_Par-E-500to5000_PGun/GEN-SIM-RECO/NoPU_150X_mcRun3_2026_realistic_v1-v2/2520001/7600f6f1-3c68-4600-ba91-d661c7b6d2b4.root?xrdcl.requuid=a7af4993-b7c5-4abd-bfa0-d7df91c7f2bf
+%MSG
+04-Jun-2026 16:27:38 CEST  Successfully opened file root://xrootd-cms.infn.it//store/mc/Run3Winter26Reco/Pi_Par-E-500to5000_PGun/GEN-SIM-RECO/NoPU_150X_mcRun3_2026_realistic_v1-v2/2520001/7600f6f1-3c68-4600-ba91-d661c7b6d2b4.root
+%MSG-f XrdAdaptor:  (NoModuleName) 04-Jun-2026 16:27:39 CEST pre-events
+Opened a file at URL root://ceph-gw11.gridpp.rl.ac.uk:1094//store/mc/Run3Winter26Reco/Pi_Par-E-500to5000_PGun/GEN-SIM-RECO/NoPU_150X_mcRun3_2026_realistic_v1-v2/2520001/7600f6f1-3c68-4600-ba91-d661c7b6d2b4.root?tried=ceph-svc20.gridpp.rl.ac.uk&triedrc=resel&xrdcl.requuid=d78966e0-0d0b-4472-ba30-9c5a4496136a
+%MSG
+%MSG-f XrdAdaptorLvl3:  AfterFile 04-Jun-2026 16:27:40 CEST pre-events
+Deactivating ceph-svc20.gridpp.rl.ac.uk from active sources because its quality (532) is higher than 260 and 4 times larger than the other active server ceph-gw11.gridpp.rl.ac.uk (80) 
+%MSG
+%MSG-f XrdAdaptor:  (NoModuleName) 04-Jun-2026 16:27:44 CEST pre-events
+Opened a file at URL root://ceph-gw10.gridpp.rl.ac.uk:1094//store/mc/Run3Winter26Reco/Pi_Par-E-500to5000_PGun/GEN-SIM-RECO/NoPU_150X_mcRun3_2026_realistic_v1-v2/2520001/7600f6f1-3c68-4600-ba91-d661c7b6d2b4.root?tried=ceph-gw11.gridpp.rl.ac.uk,ceph-svc20.gridpp.rl.ac.uk&triedrc=resel&xrdcl.requuid=cc9c907c-95f4-4c73-a58b-247e80e7f6f0
+%MSG
+04-Jun-2026 16:27:49 CEST  Closed file root://xrootd-cms.infn.it//store/mc/Run3Winter26Reco/Pi_Par-E-500to5000_PGun/GEN-SIM-RECO/NoPU_150X_mcRun3_2026_realistic_v1-v2/2520001/7600f6f1-3c68-4600-ba91-d661c7b6d2b4.root
+----- Begin Fatal Exception 04-Jun-2026 16:27:49 CEST-----------------------
+An exception of category 'PluginNotFound' occurred while
+   [0] Constructing the EventProcessor
+Exception Message:
+Unable to find plugin 'testanalyzer_dump3' in category 'CMS EDM Framework Module'. Please check spelling of name.
+----- End Fatal Exception -------------------------------------------------

@@ -1,0 +1,11 @@
+executable              = job.sh
+x509userproxy           = /afs/cern.ch/user/v/vle/x509up_u161891
+use_x509userproxy       = true
+output                  = output/run.$(ClusterId).$(ProcId).out
+error                   = error/run.$(ClusterId).$(ProcId).err
+log                     = log/run.$(ClusterId).log
++JobFlavour             = "microcentury"
+WHEN_TO_TRANSFER_OUTPUT = ON_EXIT_OR_EVICT
++SpoolOnEvict = False
+RequestCpus = 10
+queue

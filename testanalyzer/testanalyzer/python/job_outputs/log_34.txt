@@ -1,0 +1,5 @@
+Error in sitecustomize; set PYTHONVERBOSE for traceback:
+OSError: [Errno 5] Input/output error: '/afs/cern.ch/user/v/vle/.local/lib/python3.9/site-packages'
+find: '/afs/cern.ch/work/v/vle/CMSSW_15_0_19/config/SCRAM/hooks/runtime': Input/output error
+Error in usercustomize; set PYTHONVERBOSE for traceback:
+OSError: [Errno 5] Input/output error: '/afs/cern.ch/user/v/vle/.local/lib/python3.9/site-packages'

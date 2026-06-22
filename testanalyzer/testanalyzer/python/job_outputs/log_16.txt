@@ -1,0 +1,40 @@
+Traceback (most recent call last):
+  File "/cvmfs/cms.cern.ch/share/lcg/SCRAMV1/V3_00_92/bin/scram.py", line 114, in <module>
+    main()
+  File "/cvmfs/cms.cern.ch/share/lcg/SCRAMV1/V3_00_92/bin/scram.py", line 109, in main
+    if not execcommand(args, opts):
+  File "/cvmfs/cms.cern.ch/share/lcg/SCRAMV1/V3_00_92/bin/scram.py", line 103, in execcommand
+    return eval('scram_commands.cmd_%s' % cmds[0])(args, opts)
+  File "/cvmfs/cms.cern.ch/share/lcg/SCRAMV1/V3_00_92/SCRAM/Core/CMD.py", line 53, in cmd_runtime
+    return process(args)
+  File "/cvmfs/cms.cern.ch/share/lcg/SCRAMV1/V3_00_92/SCRAM/Core/Commands/runtime.py", line 30, in process_runtime
+    rt.save(RUNTIME_SHELLS[args[0]])
+  File "/cvmfs/cms.cern.ch/share/lcg/SCRAMV1/V3_00_92/SCRAM/Core/RuntimeEnv.py", line 146, in save
+    env = self._runtime()
+  File "/cvmfs/cms.cern.ch/share/lcg/SCRAMV1/V3_00_92/SCRAM/Core/RuntimeEnv.py", line 395, in _runtime
+    self._update_overrides()
+  File "/cvmfs/cms.cern.ch/share/lcg/SCRAMV1/V3_00_92/SCRAM/Core/RuntimeEnv.py", line 307, in _update_overrides
+    self._runtime_hooks()
+  File "/cvmfs/cms.cern.ch/share/lcg/SCRAMV1/V3_00_92/SCRAM/Core/RuntimeEnv.py", line 325, in _runtime_hooks
+    regexp = re.compile(
+  File "/usr/lib64/python3.9/re.py", line 252, in compile
+    return _compile(pattern, flags)
+  File "/usr/lib64/python3.9/re.py", line 304, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "/usr/lib64/python3.9/sre_compile.py", line 792, in compile
+    code = _code(p, flags)
+  File "/usr/lib64/python3.9/sre_compile.py", line 631, in _code
+    _compile(code, p.data, flags)
+  File "/usr/lib64/python3.9/sre_compile.py", line 184, in _compile
+    _compile(code, p, _combine_flags(flags, add_flags, del_flags))
+  File "/usr/lib64/python3.9/sre_compile.py", line 225, in _compile
+    _compile(code, av, flags)
+  File "/usr/lib64/python3.9/sre_compile.py", line 184, in _compile
+    _compile(code, p, _combine_flags(flags, add_flags, del_flags))
+  File "/usr/lib64/python3.9/sre_compile.py", line 164, in _compile
+    _compile(code, av[2], flags)
+  File "/usr/lib64/python3.9/sre_compile.py", line 136, in _compile
+    charset, hascased = _optimize_charset(av, iscased, tolower, fixes)
+  File "/usr/lib64/python3.9/sre_compile.py", line 317, in _optimize_charset
+    charmap[i] = 1
+KeyboardInterrupt

@@ -1,0 +1,3 @@
+cd /afs/cern.ch/work/v/vle/CMSSW_15_0_19/src
+scram b -j 8
+cd -

@@ -1,0 +1,86 @@
+04-Jun-2026 12:49:26 CEST  Initiating request to open file root://eoscms.cern.ch//eos/cms/store/mc/Run3Winter26Reco/Pi_Par-E-0p2to10_PGun/GEN-SIM-RECO/NoPU_150X_mcRun3_2026_realistic_v1-v2/2520000/c4f22407-d61b-4ceb-8705-63794e7a423f.root
+%MSG-w XrdAdaptorInternal:  file_open 04-Jun-2026 12:49:27 CEST pre-events
+Failed to open file at URL root://eoscms.cern.ch:1094//eos/cms/store/mc/Run3Winter26Reco/Pi_Par-E-0p2to10_PGun/GEN-SIM-RECO/NoPU_150X_mcRun3_2026_realistic_v1-v2/2520000/c4f22407-d61b-4ceb-8705-63794e7a423f.root?xrdcl.requuid=e94bd79a-5769-4d53-b3bd-8e7506ace0b2.
+%MSG
+%MSG-w XrdAdaptorInternal:  file_open 04-Jun-2026 12:49:27 CEST pre-events
+Failed to open file at URL root://eoscms.cern.ch:1094//eos/cms/store/mc/Run3Winter26Reco/Pi_Par-E-0p2to10_PGun/GEN-SIM-RECO/NoPU_150X_mcRun3_2026_realistic_v1-v2/2520000/c4f22407-d61b-4ceb-8705-63794e7a423f.root?tried=&xrdcl.requuid=7632ffbf-ab49-4070-8d85-beb10ffa94fc.
+%MSG
+04-Jun-2026 12:49:27 CEST  Initiating request to open file root://xrootd-cms.infn.it//store/mc/Run3Winter26Reco/Pi_Par-E-0p2to10_PGun/GEN-SIM-RECO/NoPU_150X_mcRun3_2026_realistic_v1-v2/2520000/c4f22407-d61b-4ceb-8705-63794e7a423f.root
+%MSG-f XrdAdaptor:  file_open 04-Jun-2026 12:49:47 CEST pre-events
+Opened a file at URL root://cmsstor352.fnal.gov:28177//store/mc/Run3Winter26Reco/Pi_Par-E-0p2to10_PGun/GEN-SIM-RECO/NoPU_150X_mcRun3_2026_realistic_v1-v2/2520000/c4f22407-d61b-4ceb-8705-63794e7a423f.root?org.dcache.uuid=4daa4d83-69fe-422a-9233-61fc46a970b5&org.dcache.xrootd.client=vle.3445439@lxplus9100.cern.ch&tried=+1213llrxrd-redir.in2p3.fr&xrd.logintoken=org.dcache.door=2620:6a:0:8420:0:0:0:101:1095&xrdcl.requuid=333198ac-84df-4eb5-ac3c-79182d586088
+%MSG
+04-Jun-2026 12:49:50 CEST  Successfully opened file root://xrootd-cms.infn.it//store/mc/Run3Winter26Reco/Pi_Par-E-0p2to10_PGun/GEN-SIM-RECO/NoPU_150X_mcRun3_2026_realistic_v1-v2/2520000/c4f22407-d61b-4ceb-8705-63794e7a423f.root
+%MSG-f XrdAdaptor:  (NoModuleName) 04-Jun-2026 12:49:54 CEST pre-events
+Opened a file at URL root://cmsstor352.fnal.gov:28177//store/mc/Run3Winter26Reco/Pi_Par-E-0p2to10_PGun/GEN-SIM-RECO/NoPU_150X_mcRun3_2026_realistic_v1-v2/2520000/c4f22407-d61b-4ceb-8705-63794e7a423f.root?org.dcache.uuid=057db323-35fd-4e2f-aea2-66e6a6807d2e&org.dcache.xrootd.client=vle.3445439@lxplus9100.cern.ch&tried=+1213llrxrd-redir.in2p3.fr,cmssrv608.fnal.gov&triedrc=resel&xrd.logintoken=org.dcache.door=2620:6a:0:8420:0:0:0:101:1095&xrdcl.requuid=cb813f56-514b-4216-8b47-829dff30e6bb
+%MSG
+Begin processing the 1st record. Run 1, Event 2816013, LumiSection 2817 on stream 0 at 04-Jun-2026 12:49:57.060 CEST
+%MSG-f XrdAdaptor:  (NoModuleName) 04-Jun-2026 12:50:07 CEST pre-events
+Opened a file at URL root://cmsstor352.fnal.gov:28177//store/mc/Run3Winter26Reco/Pi_Par-E-0p2to10_PGun/GEN-SIM-RECO/NoPU_150X_mcRun3_2026_realistic_v1-v2/2520000/c4f22407-d61b-4ceb-8705-63794e7a423f.root?org.dcache.uuid=223d7d1a-20d7-433f-abc0-3d905a39ed9a&org.dcache.xrootd.client=vle.3445439@lxplus9100.cern.ch&tried=+1213llrxrd-redir.in2p3.fr,cmssrv608.fnal.gov&triedrc=resel&xrd.logintoken=org.dcache.door=2620:6a:0:8420:0:0:0:101:1095&xrdcl.requuid=0d2bee61-ba35-41da-82de-4e01848d08ca
+%MSG
+Begin processing the 1001st record. Run 1, Event 2817002, LumiSection 2818 on stream 0 at 04-Jun-2026 12:50:09.978 CEST
+Begin processing the 2001st record. Run 1, Event 2818006, LumiSection 2819 on stream 0 at 04-Jun-2026 12:50:10.124 CEST
+Begin processing the 3001st record. Run 1, Event 2819003, LumiSection 2820 on stream 0 at 04-Jun-2026 12:50:10.255 CEST
+Begin processing the 4001st record. Run 1, Event 2884013, LumiSection 2885 on stream 0 at 04-Jun-2026 12:50:10.391 CEST
+Begin processing the 5001st record. Run 1, Event 2885006, LumiSection 2886 on stream 0 at 04-Jun-2026 12:50:10.529 CEST
+Begin processing the 6001st record. Run 1, Event 2886003, LumiSection 2887 on stream 0 at 04-Jun-2026 12:50:10.661 CEST
+Begin processing the 7001st record. Run 1, Event 2887003, LumiSection 2888 on stream 0 at 04-Jun-2026 12:50:10.810 CEST
+Begin processing the 8001st record. Run 1, Event 2932011, LumiSection 2933 on stream 0 at 04-Jun-2026 12:50:10.967 CEST
+Begin processing the 9001st record. Run 1, Event 2933002, LumiSection 2934 on stream 0 at 04-Jun-2026 12:50:15.391 CEST
+Begin processing the 10001st record. Run 1, Event 2934004, LumiSection 2935 on stream 0 at 04-Jun-2026 12:50:15.525 CEST
+Begin processing the 11001st record. Run 1, Event 2935002, LumiSection 2936 on stream 0 at 04-Jun-2026 12:50:15.681 CEST
+Begin processing the 12001st record. Run 1, Event 3040015, LumiSection 3041 on stream 0 at 04-Jun-2026 12:50:15.816 CEST
+Begin processing the 13001st record. Run 1, Event 3041007, LumiSection 3042 on stream 0 at 04-Jun-2026 12:50:15.958 CEST
+Begin processing the 14001st record. Run 1, Event 3042006, LumiSection 3043 on stream 0 at 04-Jun-2026 12:50:16.094 CEST
+Begin processing the 15001st record. Run 1, Event 3043001, LumiSection 3044 on stream 0 at 04-Jun-2026 12:50:16.224 CEST
+Begin processing the 16001st record. Run 1, Event 15660013, LumiSection 15661 on stream 0 at 04-Jun-2026 12:50:16.372 CEST
+%MSG-f XrdAdaptor:  (NoModuleName) 04-Jun-2026 12:50:18 CEST pre-events
+Opened a file at URL root://cmsstor352.fnal.gov:28177//store/mc/Run3Winter26Reco/Pi_Par-E-0p2to10_PGun/GEN-SIM-RECO/NoPU_150X_mcRun3_2026_realistic_v1-v2/2520000/c4f22407-d61b-4ceb-8705-63794e7a423f.root?org.dcache.uuid=a1e94f6a-3287-444d-b30b-618716a719b7&org.dcache.xrootd.client=vle.3445439@lxplus9100.cern.ch&tried=+1213llrxrd-redir.in2p3.fr,cmssrv608.fnal.gov&triedrc=resel&xrd.logintoken=org.dcache.door=2620:6a:0:8420:0:0:0:101:1095&xrdcl.requuid=c82c3a34-28c2-43da-ae3f-a193fcbf93c7
+%MSG
+Begin processing the 17001st record. Run 1, Event 15661002, LumiSection 15662 on stream 0 at 04-Jun-2026 12:50:20.641 CEST
+Begin processing the 18001st record. Run 1, Event 15662001, LumiSection 15663 on stream 0 at 04-Jun-2026 12:50:20.782 CEST
+Begin processing the 19001st record. Run 1, Event 15663001, LumiSection 15664 on stream 0 at 04-Jun-2026 12:50:20.911 CEST
+Begin processing the 20001st record. Run 1, Event 15664007, LumiSection 15665 on stream 0 at 04-Jun-2026 12:50:21.043 CEST
+Begin processing the 21001st record. Run 1, Event 15665007, LumiSection 15666 on stream 0 at 04-Jun-2026 12:50:21.171 CEST
+Begin processing the 22001st record. Run 1, Event 15666002, LumiSection 15667 on stream 0 at 04-Jun-2026 12:50:21.298 CEST
+Begin processing the 23001st record. Run 1, Event 15667001, LumiSection 15668 on stream 0 at 04-Jun-2026 12:50:21.440 CEST
+04-Jun-2026 12:50:21 CEST  Closed file root://xrootd-cms.infn.it//store/mc/Run3Winter26Reco/Pi_Par-E-0p2to10_PGun/GEN-SIM-RECO/NoPU_150X_mcRun3_2026_realistic_v1-v2/2520000/c4f22407-d61b-4ceb-8705-63794e7a423f.root
+04-Jun-2026 12:50:21 CEST  Initiating request to open file root://eoscms.cern.ch//eos/cms/store/mc/Run3Winter26Reco/Pi_Par-E-0p2to10_PGun/GEN-SIM-RECO/NoPU_150X_mcRun3_2026_realistic_v1-v2/2520000/0ad5e4c2-9be2-4cbf-8a8f-14c5c4244139.root
+%MSG-w XrdAdaptorInternal:  file_open 04-Jun-2026 12:50:22 CEST PostProcessEvent
+Failed to open file at URL root://eoscms.cern.ch:1094//eos/cms/store/mc/Run3Winter26Reco/Pi_Par-E-0p2to10_PGun/GEN-SIM-RECO/NoPU_150X_mcRun3_2026_realistic_v1-v2/2520000/0ad5e4c2-9be2-4cbf-8a8f-14c5c4244139.root?xrdcl.requuid=792a7e9a-bc01-43a3-9ad1-990339bad54c.
+%MSG
+%MSG-w XrdAdaptorInternal:  file_open 04-Jun-2026 12:50:22 CEST PostProcessEvent
+Failed to open file at URL root://eoscms.cern.ch:1094//eos/cms/store/mc/Run3Winter26Reco/Pi_Par-E-0p2to10_PGun/GEN-SIM-RECO/NoPU_150X_mcRun3_2026_realistic_v1-v2/2520000/0ad5e4c2-9be2-4cbf-8a8f-14c5c4244139.root?tried=&xrdcl.requuid=bd2028d2-657a-4881-9568-13555dd181ee.
+%MSG
+04-Jun-2026 12:50:22 CEST  Initiating request to open file root://xrootd-cms.infn.it//store/mc/Run3Winter26Reco/Pi_Par-E-0p2to10_PGun/GEN-SIM-RECO/NoPU_150X_mcRun3_2026_realistic_v1-v2/2520000/0ad5e4c2-9be2-4cbf-8a8f-14c5c4244139.root
+%MSG-f XrdAdaptor:  file_open 04-Jun-2026 12:50:40 CEST PostProcessEvent
+Opened a file at URL root://cmsstor206.fnal.gov:23401//store/mc/Run3Winter26Reco/Pi_Par-E-0p2to10_PGun/GEN-SIM-RECO/NoPU_150X_mcRun3_2026_realistic_v1-v2/2520000/0ad5e4c2-9be2-4cbf-8a8f-14c5c4244139.root?org.dcache.uuid=69cf55ed-fa9f-4238-9f25-c07ec2b11027&org.dcache.xrootd.client=vle.3445439@lxplus9100.cern.ch&tried=+1213llrxrd-redir.in2p3.fr&xrd.logintoken=org.dcache.door=2620:6a:0:8420:0:0:0:101:1095&xrdcl.requuid=0ac90182-56fe-45b4-8df3-745301ca522e
+%MSG
+04-Jun-2026 12:50:40 CEST  Successfully opened file root://xrootd-cms.infn.it//store/mc/Run3Winter26Reco/Pi_Par-E-0p2to10_PGun/GEN-SIM-RECO/NoPU_150X_mcRun3_2026_realistic_v1-v2/2520000/0ad5e4c2-9be2-4cbf-8a8f-14c5c4244139.root
+Begin processing the 24001st record. Run 1, Event 16100001, LumiSection 16101 on stream 0 at 04-Jun-2026 12:50:44.889 CEST
+Begin processing the 25001st record. Run 1, Event 16101005, LumiSection 16102 on stream 0 at 04-Jun-2026 12:50:47.192 CEST
+%MSG-f XrdAdaptor:  (NoModuleName) 04-Jun-2026 12:50:47 CEST pre-events
+Opened a file at URL root://cmsstor206.fnal.gov:23401//store/mc/Run3Winter26Reco/Pi_Par-E-0p2to10_PGun/GEN-SIM-RECO/NoPU_150X_mcRun3_2026_realistic_v1-v2/2520000/0ad5e4c2-9be2-4cbf-8a8f-14c5c4244139.root?org.dcache.uuid=cdb7ce58-5727-4e3b-a61d-25621807ee8f&org.dcache.xrootd.client=vle.3445439@lxplus9100.cern.ch&tried=+1213llrxrd-redir.in2p3.fr,cmsxrootd-site2.fnal.gov&triedrc=resel&xrd.logintoken=org.dcache.door=2620:6a:0:8420:0:0:0:101:1095&xrdcl.requuid=09e0bc06-cd4c-4a3c-a758-aeff4597d90e
+%MSG
+Begin processing the 26001st record. Run 1, Event 16102002, LumiSection 16103 on stream 0 at 04-Jun-2026 12:50:47.345 CEST
+Begin processing the 27001st record. Run 1, Event 16103003, LumiSection 16104 on stream 0 at 04-Jun-2026 12:50:47.504 CEST
+Begin processing the 28001st record. Run 1, Event 16124005, LumiSection 16125 on stream 0 at 04-Jun-2026 12:50:47.635 CEST
+Begin processing the 29001st record. Run 1, Event 16125004, LumiSection 16126 on stream 0 at 04-Jun-2026 12:50:47.767 CEST
+Begin processing the 30001st record. Run 1, Event 16126002, LumiSection 16127 on stream 0 at 04-Jun-2026 12:50:47.898 CEST
+Begin processing the 31001st record. Run 1, Event 16127005, LumiSection 16128 on stream 0 at 04-Jun-2026 12:50:48.030 CEST
+Begin processing the 32001st record. Run 1, Event 16144012, LumiSection 16145 on stream 0 at 04-Jun-2026 12:50:48.170 CEST
+Begin processing the 33001st record. Run 1, Event 16145005, LumiSection 16146 on stream 0 at 04-Jun-2026 12:50:52.965 CEST
+Begin processing the 34001st record. Run 1, Event 16146001, LumiSection 16147 on stream 0 at 04-Jun-2026 12:50:53.095 CEST
+Begin processing the 35001st record. Run 1, Event 16147001, LumiSection 16148 on stream 0 at 04-Jun-2026 12:50:53.448 CEST
+Begin processing the 36001st record. Run 1, Event 17728014, LumiSection 17729 on stream 0 at 04-Jun-2026 12:50:53.571 CEST
+Begin processing the 37001st record. Run 1, Event 17729006, LumiSection 17730 on stream 0 at 04-Jun-2026 12:50:53.698 CEST
+Begin processing the 38001st record. Run 1, Event 17730002, LumiSection 17731 on stream 0 at 04-Jun-2026 12:50:53.823 CEST
+Begin processing the 39001st record. Run 1, Event 17731003, LumiSection 17732 on stream 0 at 04-Jun-2026 12:50:53.952 CEST
+Begin processing the 40001st record. Run 1, Event 17792006, LumiSection 17793 on stream 0 at 04-Jun-2026 12:50:54.101 CEST
+Begin processing the 41001st record. Run 1, Event 17793002, LumiSection 17794 on stream 0 at 04-Jun-2026 12:50:56.671 CEST
+Begin processing the 42001st record. Run 1, Event 17794010, LumiSection 17795 on stream 0 at 04-Jun-2026 12:50:56.804 CEST
+Begin processing the 43001st record. Run 1, Event 17795001, LumiSection 17796 on stream 0 at 04-Jun-2026 12:50:56.935 CEST
+Begin processing the 44001st record. Run 1, Event 17808011, LumiSection 17809 on stream 0 at 04-Jun-2026 12:50:57.077 CEST
+Begin processing the 45001st record. Run 1, Event 17809004, LumiSection 17810 on stream 0 at 04-Jun-2026 12:50:57.213 CEST
+Begin processing the 46001st record. Run 1, Event 17810001, LumiSection 17811 on stream 0 at 04-Jun-2026 12:50:57.342 CEST
+Begin processing the 47001st record. Run 1, Event 17811001, LumiSection 17812 on stream 0 at 04-Jun-2026 12:50:57.468 CEST
+04-Jun-2026 12:50:57 CEST  Closed file root://xrootd-cms.infn.it//store/mc/Run3Winter26Reco/Pi_Par-E-0p2to10_PGun/GEN-SIM-RECO/NoPU_150X_mcRun3_2026_realistic_v1-v2/2520000/0ad5e4c2-9be2-4cbf-8a8f-14c5c4244139.root
