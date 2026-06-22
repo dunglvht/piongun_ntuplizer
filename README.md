@@ -1,0 +1,16 @@
+To run this code, first scram the project using
+```
+scram b
+```
+
+then run
+```
+cmssw-el9
+```
+Once, you are inside singularity, `cd` to `testanalyzer/testanalyzer/python/` directory  you can run it with:
+```
+source /cvmfs/cms.cern.ch/cmsset_default.sh
+vocms
+cmsenv
+cmsRun test.py
+```
